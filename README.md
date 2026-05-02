@@ -15,7 +15,7 @@
 <!-- DEVELOPER NAME SVG -->
 <p align="center">
   <a href="https://github.com/Adeel-Xtech" target="_blank">
-    <img src="./ADEEL/adeel.svg" width="300" alt="Developer — ADEEL (Gold 3D)">
+    <img src="./ADEEL/adeel.svg" width="300" alt="Developer — noti pancha (Gold 3D)">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <!-- CHANNEL UPDATE SVG -->
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBmz4V5vKAIaWfYPT0C" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb7cyvtEwEjuUjWt3145" target="_blank">
     <img src="./ADEEL/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
@@ -34,7 +34,7 @@
 
 <!-- VIEWS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADEEL-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=noti pancha-MD&label=VIEWS&style=square&color=red" />
 </p>
 
 <!-- DECORATIVE LINE -->
@@ -53,7 +53,7 @@
 <!-- PAIR CODE SVG (BUTTON) -->
 <p align="center">
   <a href="https://adeel-md-pairing-3657f51b0092.herokuapp.com/" target="_blank">
-    <img src="./ADEEL/paircode.svg" width="195" alt="PAIR_CODE – Device Session ID">
+    <img src="./noti pancha/paircode.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
@@ -62,21 +62,21 @@
 
 <!-- DEPLOYMENT TITLE SVG -->
 <p align="center">
-  <img src="./ADEEL/deployment.svg" width="600" alt="ADEEL MD — Deployment Options">
+  <img src="./notipancha/deployment.svg" width="600" alt="noti pancha MD — Deployment Options">
 </p>
 
 <!-- HEROKU AND VPS BUTTONS (ADDED) -->
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://adeel-md-vps.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VPS-DEPLOYE-FFD700?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=000000&color=FFD700"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/noti pancha-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://noti pancha-md-vps.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VPS-DEPLOYE-FFD700?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=000000&color=FFD700"/></a></td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <b>🪸 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ & ᴠᴘs ᴘʟᴀᴛғᴏʀᴍ 🪸</b>
+  <b>🧚 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ & ᴠᴘs ᴘʟᴀᴛғᴏʀᴍ ✅</b>
 </p>
 
 <!-- DECORATIVE LINE -->
@@ -92,8 +92,8 @@
 
 <!-- YOUTUBE SVG -->
 <p align="center">
-  <a href="https://youtube.com/@adeel?si=ZVANSbKM0yajAbl_" target="_blank">
-    <img src="./ADEEL/youtube.svg" alt="YouTube" width="250"/>
+  <a href="target="_blank">
+    <img src=". alt="YouTube" width="250"/>
   </a>
 </p>
 
@@ -150,7 +150,7 @@
 
 <!-- BACK TO TOP -->
 <p align="center">
-  <a href="https://github.com/Adeel-Xtech/ADEEL-MD">
+  <a href="https://github.com/Adeel-Xtech/notipancha-MD">
     <img src="https://img.shields.io/badge/⬆️-𝐁𝐀𝐂𝐊 𝐓𝐎 𝐓𝐎𝐏-⬆️?style=for-the-badge&color=ff69b4" />
   </a>
 </p>
